@@ -12,14 +12,19 @@
 - 🧑‍💻 Kotlin, Java, XML  
 - 📱 Android Studio, Git, GitHub  
 - 🗄️ SQLite, Room  
-- 🌐 REST API, Firebase (basic)
+- 🌐 REST API, Firebase
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ducsunit&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ducsunit&layout=compact&theme=radical)
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=ducsunit&show_icons=true&theme=default" alt="GitHub Stats" width="420" height="200"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ducsunit&layout=compact&theme=default" alt="Top Languages" width="420" height="200"/>
+
+</div>
 
 ---
 
