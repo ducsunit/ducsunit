@@ -18,7 +18,7 @@
 
 ## 📊 GitHub Stats
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
   <img src="https://github-readme-stats.vercel.app/api?username=ducsunit&show_icons=true&theme=default" alt="GitHub Stats" width="420" height="200"/>
 
