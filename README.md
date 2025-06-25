@@ -2,7 +2,7 @@
 
 📱 I'm passionate about building Android apps using **Kotlin**  
 🚀 Learning and improving my mobile dev skills every day
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ducsunit&layout=compact&theme=radical" alt="Top Languages" />
 ## 🛠 Tech I Use
 - 🧑‍💻 Kotlin, Java, XML  
 - 📱 Android Studio, Git, GitHub  
