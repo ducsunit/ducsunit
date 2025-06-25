@@ -16,18 +16,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=ducsunit&show_icons=true&theme=default" alt="GitHub Stats" width="420" height="200"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ducsunit&layout=compact&theme=default" alt="Top Languages" width="420" height="200"/>
-
-</div>
-
----
-
 ## 📫 Contact
 
 - ✉️ [ptd.it.vn@gmail.com](mailto:ptd.it.vn@gmail.com)  
