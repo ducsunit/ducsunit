@@ -40,14 +40,6 @@
 </div>
 
 ---
-
-## 📂 Highlight Projects
-
-* 🔌 [TechShop](https://github.com/ducsunit/tech-shop): E-commerce website using PHP & MySQL
-* 🤖 [Student Chatbot](https://github.com/ducsunit/chatbot): Rasa-integrated academic assistant
-* 🗂 [Dictionary App](https://github.com/ducsunit/e-directory): Android-Kotlin app for word search & pronunciation
-* 🎮 [Dragon Ball Server](https://github.com/ducsunit/nro_goc): Java-based online game server
-
 ---
 
 ## 📫 Contact
