@@ -1,50 +1,41 @@
-# 👋 Hi, I'm Pham Tien Duc
+👋 Hi, I'm Pham Tien Duc
 
-🌐 I'm a **Fullstack Web Developer** passionate about building robust and user-friendly web applications.
-🚀 I enjoy working with both frontend & backend technologies, and continuously learning to improve my coding skills.
+I'm a Fullstack Web Developer who enjoys building practical, reliable, and easy-to-use web applications.
+I work across both frontend and backend, with a strong focus on clean code and continuous learning.
 
 <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,java,python,spring,git,github" />
+🛠 Tech Stack
 
----
+Frontend
 
-## 🛠 Tech Stack
+HTML, CSS (Bootstrap), JavaScript
 
-**Frontend:**
+Responsive UI & basic UX principles
 
-* HTML, CSS (Bootstrap), JavaScript
-* UI/UX with responsive design
+Backend
 
-**Backend:**
+PHP (Vanilla, MVC), Java (Spring Boot)
 
-* PHP (Vanilla & MVC), Java (Spring Boot)
-* RESTful API development
-* JWT & Form-based authentication
+RESTful APIs
 
-**Database:**
+Authentication (JWT, Form-based)
 
-* MySQL, SQL Server, SQLite
-* ORM (JPA / Hibernate basic)
+Database
 
-**Tools:**
+MySQL, SQL Server, SQLite
 
-* Git, GitHub, CI/CD (GitHub Actions)
-* VS Code, Postman, XAMPP, IntelliJ
+ORM basics (JPA / Hibernate)
 
----
+Tools
 
-## 📊 GitHub Stats
+Git, GitHub, GitHub Actions (CI/CD)
 
-<!-- <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ducsunit&show_icons=true&theme=default" alt="GitHub Stats" width="420" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ducsunit&layout=compact&theme=default" alt="Top Languages" width="420" height="200"/>
-</div> -->
+VS Code, IntelliJ, Postman, XAMPP
 
----
----
+📊 GitHub Stats
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=ducsunit&show_icons=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ducsunit&layout=compact" /> -->
+📫 Contact
 
-## 📫 Contact
+✉️ Email: ptd.it.vn@gmail.com
 
-* ✉️ [ptd.it.vn@gmail.com](mailto:ptd.it.vn@gmail.com)
-* 🔗 [github.com/ducsunit](https://github.com/ducsunit)
-
----
+🔗 GitHub: https://github.com/ducsunit
