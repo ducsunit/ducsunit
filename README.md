@@ -3,7 +3,7 @@
 🌐 I'm a **Fullstack Web Developer** passionate about building robust and user-friendly web applications.
 🚀 I enjoy working with both frontend & backend technologies, and continuously learning to improve my coding skills.
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,java,spring,git,github" />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,java,python,spring,git,github" />
 
 ---
 
