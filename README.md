@@ -1,41 +1,36 @@
-👋 Hi, I'm Pham Tien Duc
+# 🚀 Pham Tien Duc | Backend Developer
 
-I'm a Fullstack Web Developer who enjoys building practical, reliable, and easy-to-use web applications.
-I work across both frontend and backend, with a strong focus on clean code and continuous learning.
+I am a **Backend Developer** passionate about building scalable, high-performance systems and writing clean, maintainable code. Currently focusing on **Python**, **Go**, and **DevOps** workflows.
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,java,python,spring,git,github" />
-🛠 Tech Stack
+---
 
-Frontend
+### 🛠 Tech Stack
 
-HTML, CSS (Bootstrap), JavaScript
+- **Languages:** Python (FastAPI, Flask), Go, Java (Spring Boot), PHP.
+- **Databases:** PostgreSQL, MySQL, Redis, MongoDB.
+- **Infrastructure:** Docker, Nginx, Ubuntu/Linux, CI/CD (GitHub Actions).
+- **Specialties:** RESTful API Design, VoIP Systems (Asterisk), Data Synchronization.
 
-Responsive UI & basic UX principles
+---
 
-Backend
+### 📈 Current Projects
 
-PHP (Vanilla, MVC), Java (Spring Boot)
+- **[DevMartVN](https://devmartvn.com):** A specialized marketplace for source code and digital assets.
+- **Financial Data Crawler:** Advanced Python tool for automated financial data extraction with proxy rotation.
+- **TOEIC Analytics Hub:** A personalized error-logging platform designed to optimize English learning paths.
 
-RESTful APIs
+---
 
-Authentication (JWT, Form-based)
+### 📫 Connect with me
 
-Database
+- **Email:** [ptd.it.vn@gmail.com](mailto:ptd.it.vn@gmail.com)
+- **GitHub:** [github.com/ducsunit](https://github.com/ducsunit)
+- **Website:** [ducsunit.id.vn](https://ducsunit.id.vn)
 
-MySQL, SQL Server, SQLite
+---
 
-ORM basics (JPA / Hibernate)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,go,java,spring,php,postgres,mysql,docker,nginx,ubuntu,git,github" />
+</p>
 
-Tools
-
-Git, GitHub, GitHub Actions (CI/CD)
-
-VS Code, IntelliJ, Postman, XAMPP
-
-📊 GitHub Stats
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=ducsunit&show_icons=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ducsunit&layout=compact" /> -->
-📫 Contact
-
-✉️ Email: ptd.it.vn@gmail.com
-
-🔗 GitHub: https://github.com/ducsunit
+*"Commit to excellence, one pull request at a time."*
