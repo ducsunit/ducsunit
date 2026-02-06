@@ -32,5 +32,3 @@ I am a **Backend Developer** passionate about building scalable, high-performanc
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,go,java,spring,php,postgres,mysql,docker,nginx,ubuntu,git,github" />
 </p>
-
-*"Commit to excellence, one pull request at a time."*
