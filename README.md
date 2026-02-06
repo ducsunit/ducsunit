@@ -13,7 +13,7 @@ I am a **Backend Developer** passionate about building scalable, high-performanc
 
 ---
 
-### 📈 Current Projects
+### 🚀 Current Projects
 
 - **[DevMartVN](https://devmartvn.com):** A specialized marketplace for source code and digital assets.
 - **Financial Data Crawler:** Advanced Python tool for automated financial data extraction with proxy rotation.
@@ -21,7 +21,7 @@ I am a **Backend Developer** passionate about building scalable, high-performanc
 
 ---
 
-### 📫 Connect with me
+### 🚀 Connect with me
 
 - **Email:** [ptd.it.vn@gmail.com](mailto:ptd.it.vn@gmail.com)
 - **GitHub:** [github.com/ducsunit](https://github.com/ducsunit)
