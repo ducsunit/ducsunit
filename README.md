@@ -6,8 +6,8 @@ I am a **Backend Developer** passionate about building scalable, high-performanc
 
 ### 🛠 Tech Stack
 
-- **Languages:** Python (FastAPI, Flask), Go, Java (Spring Boot), PHP.
-- **Databases:** PostgreSQL, MySQL, Redis, MongoDB.
+- **Languages:** Python (Flask), Java (Spring Boot).
+- **Databases:** MySQL, Redis, MongoDB.
 - **Infrastructure:** Docker, Nginx, Ubuntu/Linux, CI/CD (GitHub Actions).
 - **Specialties:** RESTful API Design, VoIP Systems (Asterisk), Data Synchronization.
 
@@ -30,5 +30,5 @@ I am a **Backend Developer** passionate about building scalable, high-performanc
 ---
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,go,java,spring,postgres,mysql,docker,nginx,ubuntu,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,java,spring,mysql,docker,nginx,ubuntu,git,github" />
 </p>
