@@ -1,6 +1,6 @@
 # 🚀 Pham Tien Duc | Backend Developer
 
-I am a **Backend Developer** passionate about building scalable, high-performance systems and writing clean, maintainable code. Currently focusing on **Python**, **Go**, and **DevOps** workflows.
+I am a **Backend Developer** passionate about building scalable, high-performance systems and writing clean, maintainable code. Currently focusing on **Python**, **Java**, and **DevOps** workflows.
 
 ---
 
